@@ -1,0 +1,11 @@
+body{
+	margin:10;
+	background: url(../image/bricks.png)no-repeat;
+	background-size:cover;
+}
+
+
+.s1{
+	text-align: left;
+	color: blue;
+} 
